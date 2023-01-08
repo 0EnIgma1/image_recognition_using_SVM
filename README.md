@@ -1,5 +1,6 @@
-Name : Naveen kumar S
-Reg no : 310620243037
+- Name : Naveen kumar S
+
+- Reg no : 310620243037
 
 # image_recognition_using_SVM
 An image recognition program developed using python
